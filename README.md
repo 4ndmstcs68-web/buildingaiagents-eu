@@ -1,3 +1,7 @@
+> **VEROUDERD (25/11/2026).** Dit is NIET de live site. buildaiagents.eu draait op Cloudflare Pages
+> vanuit `~/Business/website/buildaiagents` (deploy: `npx wrangler pages deploy … --project-name buildaiagents`).
+> Pas daar aan, niet hier.
+
 # buildingaiagents.eu
 
 Statische site, gehost op GitHub Pages.
